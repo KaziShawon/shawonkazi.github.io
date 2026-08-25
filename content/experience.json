@@ -1,0 +1,27 @@
+[
+  {
+    "company": "ADN Diginet",
+    "role": "Senior Data Scientist",
+    "location": "Dhaka, Bangladesh",
+    "start": "2023-01",
+    "end": null,
+    "highlights": [
+      "PLACEHOLDER: Outcome-focused bullet with a concrete number in it (e.g. reduced X by Y%).",
+      "PLACEHOLDER: Scope statement - team size, systems owned, or business area covered.",
+      "PLACEHOLDER: A third bullet highlighting a specific technical contribution or leadership moment."
+    ],
+    "tags": ["Python", "MLOps", "Forecasting"]
+  },
+  {
+    "company": "PLACEHOLDER: Previous Company",
+    "role": "PLACEHOLDER: Data Scientist",
+    "location": "PLACEHOLDER: City, Country",
+    "start": "2020-06",
+    "end": "2022-12",
+    "highlights": [
+      "PLACEHOLDER: Outcome-focused bullet with a number.",
+      "PLACEHOLDER: Another concrete achievement."
+    ],
+    "tags": ["Python", "SQL"]
+  }
+]

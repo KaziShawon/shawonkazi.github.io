@@ -1,0 +1,18 @@
+{
+  "name": "PLACEHOLDER: Your Full Name",
+  "role": "Senior Data Scientist @ ADN Diginet",
+  "tagline": "PLACEHOLDER: A 2-3 sentence positioning statement describing what you do, for whom, and the kind of impact you deliver. Keep it under 220 characters.",
+  "location": "Dhaka, Bangladesh",
+  "email": "PLACEHOLDER@example.com",
+  "resumeUrl": "/assets/resume.pdf",
+  "profileImage": "/assets/images/profile.svg",
+  "ogImage": "/assets/images/og-default.svg",
+  "accent": "#2f6f4f",
+  "siteUrl": "https://shawonkazi.github.io",
+  "googleSiteVerification": "",
+  "social": [
+    { "label": "Email", "url": "mailto:PLACEHOLDER@example.com", "icon": "mail" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/PLACEHOLDER", "icon": "linkedin" },
+    { "label": "GitHub", "url": "https://github.com/PLACEHOLDER", "icon": "github" }
+  ]
+}
