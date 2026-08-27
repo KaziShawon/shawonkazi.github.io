@@ -3,25 +3,68 @@
     "company": "ADN Diginet",
     "role": "Senior Data Scientist",
     "location": "Dhaka, Bangladesh",
-    "start": "2023-01",
-    "end": null,
+    "start": "2026-06",
+    "end": "present",
     "highlights": [
-      "PLACEHOLDER: Outcome-focused bullet with a concrete number in it (e.g. reduced X by Y%).",
-      "PLACEHOLDER: Scope statement - team size, systems owned, or business area covered.",
-      "PLACEHOLDER: A third bullet highlighting a specific technical contribution or leadership moment."
+      "Scoring System: Built scoring models for Metlife to prioritize potential clients and rank insurance agents, functioning as a risk and propensity scorecard for decision-makers.",
+      "Recommendation Engine: Build a recommendation engine (collaborative filtering) based onbehavioral and transactional data to informs product decisions"
     ],
-    "tags": ["Python", "MLOps", "Forecasting"]
+    "tags": ["Python", "Statistics", "Recommendation", "Classification", "SQL"]
   },
   {
-    "company": "PLACEHOLDER: Previous Company",
-    "role": "PLACEHOLDER: Data Scientist",
-    "location": "PLACEHOLDER: City, Country",
-    "start": "2020-06",
-    "end": "2022-12",
+    "company": "Gildan",
+    "role": "Data Scientist",
+    "location": "Dhaka, Bangladesh",
+    "start": "2024-10",
+    "end": "2026-05",
     "highlights": [
-      "PLACEHOLDER: Outcome-focused bullet with a number.",
-      "PLACEHOLDER: Another concrete achievement."
+      "Decision Optimization: Design and apply statistical analysis, hypothesis testing to evaluate busniness initiatives, build AI solutions for stakeholders to enhance clothing manufacturing decision.",
+      "AI Infrastructure: Improve AI architecture for Azure and on-premise environments with validations, CI/CD, microservices, unit testing, model versioning, code coverage, retraining and drift detection.",
+      "AI Agent: Build AI Agents to automate finance and supply-chain queries using SQL & analytical reports generation.",
+      "Manufacturing AI: Build fabric quality prediction and machine downtime forecasting to optimize key decision"
     ],
-    "tags": ["Python", "SQL"]
+    "tags": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Linux",
+      "Azure",
+      "Microservice",
+      "CI/CD"
+    ]
+  },
+  {
+    "company": "Intermediate Data Systems",
+    "role": "Machine Learning Engineer",
+    "location": "Remote",
+    "start": "2023-10",
+    "end": "2024-06",
+    "highlights": [
+      "Conversational Assistance: Built an enterprise conversational AI agent for financial query resolution and insurance recommendation, combining RAG pipelines, prompt management, evaluation, and observability.",
+      "AI Agent: Built agentic AI ecosystem (Llamaindex, FastAPI, Vector DB, Docker, MLflow, CI/CD, Guardrails)enabling autonomous, tool-using agents with governance and guardrails.",
+      "AI Infrastructure: Defined architecture and standards for agentic AI applications in Azure identifying automation opportunities, requirements, and solutions."
+    ],
+    "tags": [
+      "Python",
+      "Llamaindex",
+      "OpenAI",
+      "Docker",
+      "Azure",
+      "Streamlit",
+      "React"
+    ]
+  },
+  {
+    "company": "Spacenus GmBH",
+    "role": "Machine Learning Engineer",
+    "location": "Remote",
+    "start": "2022-02",
+    "end": "2023-09",
+    "highlights": [
+      "Crop Detection: Built Crop-detection system trained on ESA landcovers, Landsat and Sentinel sattelite images.",
+      "SOC: Infer soil organic carbon map on agricultural fields over Germany and Austria.",
+      "Fertilizer Recommendation: Provide analytical image of nitrogen status and recommendation over agriculture fields",
+      "AI Architecture: Built ETL pipelines for satellite imagery and geospatial data to power statistical intelligence and Architected a scalable AWS crop detection service (SageMaker, Lambda, Step Functions, API Gateway, S3"
+    ]
   }
 ]

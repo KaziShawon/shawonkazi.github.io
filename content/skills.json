@@ -1,11 +1,26 @@
 [
   {
-    "category": "Machine Learning",
-    "items": ["Forecasting", "Causal Inference", "NLP", "Recommender Systems", "A/B Testing", "Anomaly Detection"]
+    "category": "Data Science",
+    "items": [
+      "Forecasting",
+      "Causal Inference",
+      "NLP",
+      "Recommender Systems",
+      "A/B Testing",
+      "Anomaly Detection"
+    ]
   },
   {
     "category": "Languages & Libraries",
-    "items": ["Python", "SQL", "PyTorch", "scikit-learn", "pandas", "Polars", "XGBoost"]
+    "items": [
+      "Python",
+      "SQL",
+      "PyTorch",
+      "scikit-learn",
+      "pandas",
+      "Polars",
+      "XGBoost"
+    ]
   },
   {
     "category": "Data & Infrastructure",
@@ -13,6 +28,11 @@
   },
   {
     "category": "Ways of Working",
-    "items": ["Stakeholder translation", "Mentoring", "Experiment design", "Technical writing"]
+    "items": [
+      "Stakeholder translation",
+      "Mentoring",
+      "Experiment design",
+      "Technical writing"
+    ]
   }
 ]

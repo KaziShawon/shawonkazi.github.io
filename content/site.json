@@ -1,9 +1,9 @@
 {
-  "name": "PLACEHOLDER: Your Full Name",
+  "name": "Kazi Saiful Islam Shawon",
   "role": "Senior Data Scientist @ ADN Diginet",
-  "tagline": "PLACEHOLDER: A 2-3 sentence positioning statement describing what you do, for whom, and the kind of impact you deliver. Keep it under 220 characters.",
+  "tagline": "As a Data Scientist with five years of professional experience, I have delivered sustainable AI products through data science, statistical analysis, lifecycle management, MLOps implementation, and agile collaboration. My expertise spans in insurance, apparel, image analysis, generative ai and data science architectures, positioning me to successfully execute impactful projects with clarity and accountability.",
   "location": "Dhaka, Bangladesh",
-  "email": "PLACEHOLDER@example.com",
+  "email": "shawon.eee.ruet@gmail.com",
   "resumeUrl": "/assets/resume.pdf",
   "profileImage": "/assets/images/profile.svg",
   "ogImage": "/assets/images/og-default.svg",
@@ -11,8 +11,20 @@
   "siteUrl": "https://shawonkazi.github.io",
   "googleSiteVerification": "",
   "social": [
-    { "label": "Email", "url": "mailto:PLACEHOLDER@example.com", "icon": "mail" },
-    { "label": "LinkedIn", "url": "https://linkedin.com/in/PLACEHOLDER", "icon": "linkedin" },
-    { "label": "GitHub", "url": "https://github.com/PLACEHOLDER", "icon": "github" }
+    {
+      "label": "Email",
+      "url": "shawon.eee.ruet@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kazi-saiful-islam-shawon-66116b160/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/KaziShawon",
+      "icon": "github"
+    }
   ]
 }
