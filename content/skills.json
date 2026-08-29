@@ -7,7 +7,10 @@
       "NLP",
       "Recommender Systems",
       "A/B Testing",
-      "Anomaly Detection"
+      "Anomaly Detection",
+      "Statistical Analysis",
+      "Hypothesis Testing",
+      "Computer Vision"
     ]
   },
   {
@@ -15,16 +18,58 @@
     "items": [
       "Python",
       "SQL",
+      "JavaScript",
+      "C++",
       "PyTorch",
+      "TensorFlow",
+      "Keras",
       "scikit-learn",
       "pandas",
       "Polars",
-      "XGBoost"
+      "XGBoost",
+      "Langchain",
+      "Llamaindex",
+      "FastAPI",
+      "Flask"
     ]
   },
   {
     "category": "Data & Infrastructure",
-    "items": ["Spark", "Airflow", "dbt", "PostgreSQL", "Docker", "AWS"]
+    "items": [
+      "Spark",
+      "Airflow",
+      "dbt",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "MSSQL",
+      "Databricks",
+      "Docker",
+      "AWS",
+      "Azure",
+      "CI/CD",
+      "Microservices"
+    ]
+  },
+  {
+    "category": "Generative & Agentic AI",
+    "items": [
+      "RAG Pipelines",
+      "Agentic AI",
+      "Vector Databases",
+      "Prompt Engineering",
+      "MLflow"
+    ]
+  },
+  {
+    "category": "Geospatial & Remote Sensing",
+    "items": [
+      "Satellite Imagery",
+      "ETL Pipelines",
+      "SageMaker",
+      "Sentinel-1/2",
+      "Landsat"
+    ]
   },
   {
     "category": "Ways of Working",
@@ -32,7 +77,10 @@
       "Stakeholder translation",
       "Mentoring",
       "Experiment design",
-      "Technical writing"
+      "Technical writing",
+      "Git",
+      "Jira",
+      "Confluence"
     ]
   }
 ]

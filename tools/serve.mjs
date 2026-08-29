@@ -33,12 +33,23 @@ const MIME = {
   '.txt': 'text/plain; charset=utf-8',
 };
 
+// Concurrent requests (HTML, CSS, JS, favicon, images, ...) each trigger a rebuild.
+// Running multiple `build.mjs` child processes in parallel races on dist/ (rm/mkdir/copy),
+// which fails intermittently on Windows with EBUSY/ENOTEMPTY/ENOENT. Serialize rebuilds so
+// overlapping requests await the single in-flight build instead of starting their own.
+let rebuildInFlight = null;
+
 async function rebuild() {
-  try {
-    await execFileAsync(process.execPath, [BUILD_SCRIPT]);
-  } catch (err) {
-    console.error(err.stdout || err.message);
+  if (!rebuildInFlight) {
+    rebuildInFlight = execFileAsync(process.execPath, [BUILD_SCRIPT])
+      .catch((err) => {
+        console.error(err.stdout || err.message);
+      })
+      .finally(() => {
+        rebuildInFlight = null;
+      });
   }
+  await rebuildInFlight;
 }
 
 async function serveFile(res, filePath, statusCode = 200) {

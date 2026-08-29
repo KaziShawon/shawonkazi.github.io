@@ -1,8 +1,1 @@
-PLACEHOLDER: Write ~120 words in first person about who you are as a data scientist, the kinds
-of problems you enjoy solving, and how you approach your work. Mention your current focus at
-ADN Diginet, a couple of domains you have depth in (e.g. forecasting, NLP, causal inference),
-and what makes your way of working distinctive — for example how you translate ambiguous
-business questions into shippable models, or how you balance rigor with speed. End with a short
-line about what you're curious about right now. Keep the tone plain and confident, avoid buzzword
-soup, and prefer concrete nouns ("churn models", "demand forecasting") over vague ones
-("cutting-edge solutions").
+I'm a data scientist with five years of experience turning messy, ambiguous business questions into models that actually ship. At ADN Diginet, I build scoring systems for MetLife that rank insurance agents and prioritize potential clients, alongside a recommendation engine driven by behavioral and transactional data. Before that, I worked on demand and machine-downtime forecasting for a clothing manufacturer, and built agentic AI systems — RAG pipelines, vector databases, guardrails — for financial and insurance use cases. I've also spent time in geospatial ML, detecting crops and estimating soil carbon from satellite imagery. What I care about most is translating a vague ask into a model someone will trust enough to act on, and doing that without over-engineering. Right now I'm curious about how agentic AI can responsibly automate underwriting-style decisions.

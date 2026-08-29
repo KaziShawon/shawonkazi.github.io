@@ -65,6 +65,7 @@
       "SOC: Infer soil organic carbon map on agricultural fields over Germany and Austria.",
       "Fertilizer Recommendation: Provide analytical image of nitrogen status and recommendation over agriculture fields",
       "AI Architecture: Built ETL pipelines for satellite imagery and geospatial data to power statistical intelligence and Architected a scalable AWS crop detection service (SageMaker, Lambda, Step Functions, API Gateway, S3"
-    ]
+    ],
+    "tags": ["Python", "AWS", "SageMaker", "Geospatial", "Remote Sensing", "ETL"]
   }
 ]
