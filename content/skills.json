@@ -2,14 +2,12 @@
   {
     "category": "Data Science",
     "items": [
+      "Classification",
       "Forecasting",
-      "Causal Inference",
       "NLP",
       "Recommender Systems",
       "A/B Testing",
-      "Anomaly Detection",
       "Statistical Analysis",
-      "Hypothesis Testing",
       "Computer Vision"
     ]
   },
@@ -22,33 +20,27 @@
       "C++",
       "PyTorch",
       "TensorFlow",
-      "Keras",
       "scikit-learn",
-      "pandas",
-      "Polars",
-      "XGBoost",
-      "Langchain",
-      "Llamaindex",
       "FastAPI",
-      "Flask"
+      "Flask",
+      "Langchain",
+      "Llamaindex"
     ]
   },
   {
     "category": "Data & Infrastructure",
     "items": [
+      "MSSQL",
       "Spark",
       "Airflow",
-      "dbt",
       "PostgreSQL",
       "MySQL",
+      "CI/CD",
       "MongoDB",
-      "MSSQL",
       "Databricks",
       "Docker",
       "AWS",
-      "Azure",
-      "CI/CD",
-      "Microservices"
+      "Azure"
     ]
   },
   {
@@ -57,30 +49,12 @@
       "RAG Pipelines",
       "Agentic AI",
       "Vector Databases",
-      "Prompt Engineering",
-      "MLflow"
+      "MLflow",
+      "Prompt Engineering"
     ]
   },
   {
-    "category": "Geospatial & Remote Sensing",
-    "items": [
-      "Satellite Imagery",
-      "ETL Pipelines",
-      "SageMaker",
-      "Sentinel-1/2",
-      "Landsat"
-    ]
-  },
-  {
-    "category": "Ways of Working",
-    "items": [
-      "Stakeholder translation",
-      "Mentoring",
-      "Experiment design",
-      "Technical writing",
-      "Git",
-      "Jira",
-      "Confluence"
-    ]
+    "category": "Tools",
+    "items": ["Git", "Jira", "Excel", "Notion", "Confluence", "Teams", "Slack"]
   }
 ]

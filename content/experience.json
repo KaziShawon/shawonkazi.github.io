@@ -66,6 +66,32 @@
       "Fertilizer Recommendation: Provide analytical image of nitrogen status and recommendation over agriculture fields",
       "AI Architecture: Built ETL pipelines for satellite imagery and geospatial data to power statistical intelligence and Architected a scalable AWS crop detection service (SageMaker, Lambda, Step Functions, API Gateway, S3"
     ],
-    "tags": ["Python", "AWS", "SageMaker", "Geospatial", "Remote Sensing", "ETL"]
+    "tags": [
+      "Python",
+      "AWS",
+      "SageMaker",
+      "Geospatial",
+      "Remote Sensing",
+      "ETL"
+    ]
+  },
+  {
+    "company": "Omdena",
+    "role": "Machine Learning Engineer",
+    "location": "Remote",
+    "start": "2021-03",
+    "end": "2022-01",
+    "highlights": [
+      "Computer Vision: Shipped landcover detection model using Unet segmentation model with sentinel-2 dataset and reached 85% mIoU over Australlia landscape",
+      "Forecasting: Build Soil Organic Carbon forecasting model using CNN-LSTM forecasting using multiple satellite dataset and indices.",
+      "NLP: Intent Classification System with GPT-3 on business communication service to segregate clients."
+    ],
+    "tags": [
+      "Python",
+      "Geospatial",
+      "Forecasting",
+      "Computer Vision",
+      "Natural Language Processing"
+    ]
   }
 ]
